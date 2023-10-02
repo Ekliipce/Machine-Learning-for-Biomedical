@@ -1,7 +1,5 @@
 # Machine Learning for Biomedical Applications
 
-![Project Image]()
-
 ## Table of Contents
 1. [Overview](#overview)
 2. [Electrocardiogram](#electrocardiogram)
