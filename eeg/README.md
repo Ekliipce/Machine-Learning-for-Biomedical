@@ -1,3 +1,5 @@
+![Alcoholic EEG example](./alcoholic.gif)
+
 
 ## Experience and dataset explanation
 
