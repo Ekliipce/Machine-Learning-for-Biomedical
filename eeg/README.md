@@ -1,5 +1,5 @@
 
-<img src="./alcoholic.gif" width="350" alt="Alcoholic EEG example">
+<img src="./alcoholic.gif" width="600" alt="Alcoholic EEG example">
 
 
 ## Experience and dataset explanation
