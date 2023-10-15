@@ -36,7 +36,8 @@ The choice depended on both the task and deep learning architecture. A variety o
 ### Networks to handle ERP EEG 
 
 There are various methods for handling ERP-type EEG data, including CNNs (Convolutional Neural Networks), DBNs (Deep Belief Networks), and SAEs (Stacked Autoencoders). However, CNNs have shown slightly superior performance, especially with raw data or image inputs.
-**We choose CNN to perform the binary classification"
+**We choose CNN to perform the binary classification**
+
 ## Model
 
 - **Input Layer**:
