@@ -74,9 +74,11 @@ There are various methods for handling ERP-type EEG data, including CNNs (Convol
 - **Softmax**:
     - Softmax activation for classification output.
 
+Loss : Cross Entropy
+Optimizer : Adam
 
  ## Citations
- [1]`Alexander Craik et al 2019 J. Neural Eng. 16 031001` **Compact convolutional neural networks for classification of asynchronous steady-state visual evoked potentials**
+ [1]`Alexander Craik et al 2019 J. Neural Eng. 16 031001` **Compact convolutional neural networks for classification of asynchronous steady-state visual evoked potentials**<br/>
  [2]@article{hbm23730,
 author = {Schirrmeister Robin Tibor and 
           Springenberg Jost Tobias and 
@@ -97,5 +99,4 @@ doi = {10.1002/hbm.23730},
 url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.23730}
 }
 
-Loss : Cross Entropy
-Optimizer : Adam
+
