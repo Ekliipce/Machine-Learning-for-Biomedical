@@ -1,4 +1,5 @@
-![Alcoholic EEG example](./alcoholic.gif)
+
+<img src="./alcoholic.gif" width="350" alt="Alcoholic EEG example">
 
 
 ## Experience and dataset explanation
