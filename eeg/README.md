@@ -70,8 +70,32 @@ There are various methods for handling ERP-type EEG data, including CNNs (Convol
 - **Linear Layers**:
     - **Lin1**: Linear transformation. Its input size is determined dynamically based on the size of the concatenated tensor. Outputs 64 units.
     - **Lin2**: Transforms from 64 units to 2 units.
+    
 - **Softmax**:
     - Softmax activation for classification output.
+
+
+ ## Citations
+ [1]`Alexander Craik et al 2019 J. Neural Eng. 16 031001` **Compact convolutional neural networks for classification of asynchronous steady-state visual evoked potentials**
+ [2]@article{hbm23730,
+author = {Schirrmeister Robin Tibor and 
+          Springenberg Jost Tobias and 
+          Fiederer Lukas Dominique Josef and 
+          Glasstetter Martin and 
+          Eggensperger Katharina and 
+          Tangermann Michael and 
+          Hutter Frank and 
+          Burgard Wolfram and 
+          Ball Tonio},
+title = {Deep learning with convolutional neural networks for EEG decoding and visualization},
+journal = {Human Brain Mapping},
+volume = {38},
+number = {11},
+pages = {5391-5420},
+keywords = {electroencephalography, EEG analysis, machine learning, end‐to‐end learning, brain–machine interface, brain–computer interface, model interpretability, brain mapping},
+doi = {10.1002/hbm.23730},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.23730}
+}
 
 Loss : Cross Entropy
 Optimizer : Adam
