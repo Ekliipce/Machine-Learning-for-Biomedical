@@ -6,7 +6,8 @@
 3. [Molecules](#molecules)
 4. [Genomic](#genomic)
 5. [Federated Learning](#federated-learning)
-6. [Contact](#contact)
+6. [Electroencephalogram](#eeg)
+7. [Contact](#contact)
 
 ## Overview
 This repository hosts various projects focusing on applying machine learning techniques to biomedical data. Each sub-directory contains a different project, and below, you will find a brief explanation for each.
